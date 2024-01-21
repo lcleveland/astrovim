@@ -6,4 +6,5 @@ return {
 
   { import = "astrocommunity.completion.codeium-vim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
+  { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
 }
